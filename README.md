@@ -1,7 +1,5 @@
 # Voice-Search
 
-t is difficult to say whether voice neural search is better or worse than other products like Siri, Google Assistant, or Bing, as each system has its own advantages and disadvantages. However, voice neural search has several advantages compared to traditional search methods.
-
 It is difficult to say whether voice neural search is better or worse than other products like Siri, Google Assistant, or Bing, as each system has its own advantages and disadvantages. However, voice neural search has several advantages compared to traditional search methods.
 
 Natural language: Voice neural search allows users to ask questions in natural language, without the need to formulate queries in a specific format. This makes search more intuitive and easier to use.
