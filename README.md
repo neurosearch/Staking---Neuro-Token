@@ -1,5 +1,5 @@
 # Voice-Search
-![AI](https://neurosearch.ai/assets/img/github/girl.jpg)
+![AI](https://neurosearch.ai/assets/img/github/girl.jpg) 
 
 It is difficult to say whether voice neural search is better or worse than other products like Siri, Google Assistant, or Bing, as each system has its own advantages and disadvantages. However, voice neural search has several advantages compared to traditional search methods.
 
