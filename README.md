@@ -17,4 +17,4 @@ yarn start
 
 Because this app uses the Audio API, test it using the Expo app on a device and not the iOS simulator.
 
-See [this repo](https://github.com/fostermadeco/audio-to-text-gcloud) for more info about the Google Cloud Function for the Speech API.
+See for more info about the Google Cloud Function for the Speech API.
