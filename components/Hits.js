@@ -2,6 +2,7 @@ import React from 'react';
 import { StyleSheet, View, FlatList, Image, Text } from 'react-native';
 import { connectInfiniteHits } from 'react-instantsearch-native';
 
+
 const Hits = connectInfiniteHits(({ hits, hasMore, refine }) => {
     const onEndReached = function() {
         if (hasMore) {
